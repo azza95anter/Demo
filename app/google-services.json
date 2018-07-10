@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "824353086012",
+    "firebase_url": "https://blooddonationapp-6c80d.firebaseio.com",
+    "project_id": "blooddonationapp-6c80d",
+    "storage_bucket": "blooddonationapp-6c80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824353086012:android:0ca94985e6a401df",
+        "android_client_info": {
+          "package_name": "com.example.android.blooddonationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824353086012-4cvlkk3769bidbdkn0oarg4ftbv8a9op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.blooddonationapp",
+            "certificate_hash": "a966b544aa45385f39ee307256d0d29152af2fef"
+          }
+        },
+        {
+          "client_id": "824353086012-r6m3pb57rd6c7e77a86ssjcc4sq66rdv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "824353086012-r6m3pb57rd6c7e77a86ssjcc4sq66rdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7poLUjeZ8daOM0bSvywyd0d0GbObfxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824353086012-r6m3pb57rd6c7e77a86ssjcc4sq66rdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824353086012:android:c13f127b8ef85e34",
+        "android_client_info": {
+          "package_name": "com.example.android.blooddonationapp.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824353086012-qnbe3slp10ofrc40maggu9evlaectjpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.blooddonationapp.free",
+            "certificate_hash": "a966b544aa45385f39ee307256d0d29152af2fef"
+          }
+        },
+        {
+          "client_id": "824353086012-r6m3pb57rd6c7e77a86ssjcc4sq66rdv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "824353086012-r6m3pb57rd6c7e77a86ssjcc4sq66rdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7poLUjeZ8daOM0bSvywyd0d0GbObfxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824353086012-r6m3pb57rd6c7e77a86ssjcc4sq66rdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824353086012:android:38dd599ba2349126",
+        "android_client_info": {
+          "package_name": "com.example.android.blooddonationapp.paid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824353086012-040hl02gfg0qsoifngvkeqkq3rja81gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.blooddonationapp.paid",
+            "certificate_hash": "a966b544aa45385f39ee307256d0d29152af2fef"
+          }
+        },
+        {
+          "client_id": "824353086012-r6m3pb57rd6c7e77a86ssjcc4sq66rdv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "824353086012-r6m3pb57rd6c7e77a86ssjcc4sq66rdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7poLUjeZ8daOM0bSvywyd0d0GbObfxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824353086012-r6m3pb57rd6c7e77a86ssjcc4sq66rdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
